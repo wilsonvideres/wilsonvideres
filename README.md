@@ -7,7 +7,7 @@ Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em **Análise e 
 
 ## Ferramentas
 
-![Git  ](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=000)
+![Git  ](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
