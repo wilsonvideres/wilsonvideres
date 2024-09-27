@@ -4,7 +4,7 @@ Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em **Análise e 
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/wilsonvideres/) 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=0088cc)](https://t.me/wilsonvideres)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=0077B5)](https://t.me/wilsonvideres)
 
 ## Ferramentas
 
