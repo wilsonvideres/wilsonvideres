@@ -1,5 +1,5 @@
 # Wilson Videres
-Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em **Análise e Desenvolvimento de Sistemas**. Tive meu primeiro contato com uma linguagem de programação ainda na adolescência, e minha primeira IDE foi o QBasic 😅. Sabendo do meu interesse por computadores, um amigo me trouxe um livro de algoritmos em Visual Basic e Pascal, que, coincidentemente, havia encontrado na universidade. Foi através desse livro que minha paixão por programação nasceu. Embora tenha seguido outras atividades dentro da TI, a programação sempre foi minha paixão 💙 e um hobby constante ao longo dos anos.
+Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em **Análise e Desenvolvimento de Sistemas**. Tive meu primeiro contato com uma linguagem de programação ainda na adolescência, e minha primeira IDE foi o QBasic 😅. Embora tenha seguido outras atividades dentro da TI, a programação sempre foi minha paixão 💙 e um hobby constante ao longo dos anos.
 
 ## Conecte-se comigo
 
