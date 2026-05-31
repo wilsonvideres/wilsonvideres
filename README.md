@@ -1,5 +1,5 @@
 # Wilson Videres
-Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em **Análise e Desenvolvimento de Sistemas**. Embora tenha seguido outras atividades dentro da TI, a programação sempre foi minha paixão 💙 e um hobby constante ao longo dos anos.
+Olá! 👋 Sou **Técnico em Redes de Computadores** e graduado em *Análise e Desenvolvimento de Sistemas**. Ao longo da minha trajetória na área de TI, explorei diferentes atividades, mas a programação sempre ocupou um lugar especial, sendo minha maior paixão 💙 e um hobby constante que cultivo até hoje.
 
 ## Conecte-se comigo
 
